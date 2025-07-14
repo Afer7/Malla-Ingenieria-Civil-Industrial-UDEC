@@ -59,7 +59,6 @@ const ramos = [
   { codigo: "105", nombre: "ELECTIVA 5", semestre: 10, creditos: 3, prerrequisitos: [] },
   { codigo: "580450", nombre: "PRACTICA PROFESIONAL", semestre: 11, creditos: 0, prerrequisitos: [] },
   { codigo: "580699", nombre: "MEMORIA DE TITULO (TERMINAL HABILITANTE", semestre: 10, creditos: 18, prerrequisitos: [] },
-  v
 ];
 
 const malla = document.getElementById("malla");
