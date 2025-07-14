@@ -53,7 +53,7 @@ const ramos = [
   { codigo: "102", nombre: "ELECTIVA 2", semestre: 9, creditos: 3, prerrequisitos: [] },
   { codigo: "580515", nombre: "DESARROLLO ORGANIZACIONAL Y RECURSOS HUMANOS", semestre: 9, creditos: 3, prerrequisitos: ["580321"] },
   { codigo: "103", nombre: "ELECTIVA 3", semestre: 10, creditos: 3, prerrequisitos: [] },
-  { codigo: "580523", nombre: "TALLER DE EMPRENDIMIENTO", semestre: 10, creditos: 3, prerrequisitos: ["580511"], ["580513"] },
+  { codigo: "580523", nombre: "TALLER DE EMPRENDIMIENTO", semestre: 10, creditos: 3, prerrequisitos: ["580511", "580513"] },
   { codigo: "580521", nombre: "LOGISTICA ", semestre: 10, creditos: 3, prerrequisitos: ["580421"] },
   { codigo: "104", nombre: "ELECTIVA 4", semestre: 10, creditos: 3, prerrequisitos: [] },
   { codigo: "105", nombre: "ELECTIVA 5", semestre: 10, creditos: 3, prerrequisitos: [] },
